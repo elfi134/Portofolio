@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Salsa&display=swap');
+
+.container-fluid {
+    padding: 3% 15%;
+}
+.img1 {
+    width: 100%;
+}
+#title {
+    background-color: #1a1a1a;
+}
+#title a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+#title p {
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#title h1 {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+ul, li{
+    text-align: right;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    padding-left: 50px;
+    font-size: 1.2rem;
+    color: #fff;
+}
+.collapse {
+    text-align: right;
+}
+.btn1{
+    height: 50px;
+    background-color: #1a1a1a;
+    border: #68e2fd solid 3px;
+    color: #68e2fd;
+}
+.btn1:hover {
+ background-color: #68e2fd;
+ color: white;
+}
+#About {
+    text-align: center;
+    background-color: #1a1a1a;
+}
+#About p {
+    color: #999;
+}
+
+
+
+#footer {
+    background-color: #1a1a1a;
+}
+#hr2 hr {
+    text-align: center;
+    background-color: black;
+}

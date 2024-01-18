@@ -1,0 +1,59 @@
+.container-fluid {
+    padding: 3% 15%;
+}
+.img1 {
+    width: 100%;
+}
+#title {
+    background-color: #1a1a1a;
+}
+ul, li{
+    text-align: right;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    padding-left: 50px;
+    font-size: 1.2rem;
+    color: #fff;
+}
+.collapse {
+    text-align: right;
+}
+#title p {
+        font-family: "Salsa", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+#Skills {
+    text-align: left;
+    background-color: #1a1a1a;
+}
+#Skills .progress {
+    background: #ffffff;
+}
+.progress-bar {
+    background-color: #68e2fd;
+}
+#Skills span {
+    color: white;
+    font-weight: bold;
+    display: block;
+    padding-bottom: 6px;
+}
+#Skills small {
+    font-weight: bold;
+    float: right;
+    font-size: 85%;
+}
+#Achivment {
+    background-color: #1a1a1a;
+}
+#Achivment img {
+    padding: 20% 20%;
+}

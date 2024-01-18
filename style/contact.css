@@ -1,0 +1,59 @@
+.container-fluid {
+    padding: 3% 15%;
+}
+.img1 {
+    width: 100%;
+}
+#title {
+    background-color: #1a1a1a;
+}
+ul, li{
+    text-align: right;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    padding-left: 50px;
+    font-size: 1.2rem;
+    color: #fff;
+}
+#Contact {
+    background-color: #1a1a1a;
+
+}
+#Contact p {
+    color: #fff;
+}
+#Contact i {
+    color: #68e2fd;
+}
+#Contact .container-fluid {
+    padding: 10% 10%;
+}
+#Contact input{
+    background-color: #1a1a1a;
+    
+}
+#Contact textarea {
+    background-color: #1a1a1a;
+}
+#Contact input[type="submit"] {
+    background: #68e2fd;
+    border: 2px solid transparent;
+    color: #ffffff;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out;
+}
+#Contact 
+#hr1 hr {
+    text-align: center;
+    background-color: #1a1a1a;
+}
+#Contact .form-group {
+    padding-top: 10px;
+}
